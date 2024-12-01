@@ -84,13 +84,3 @@ export default function Board({
     </div>
   );
 }
-
-// DONE Tornado motion
-// DONE Show player
-// DONE Move player w/ keys
-// DONE Collision detection > Game over
-// Beep if player tries to move off screen
-// DONE Play again button on Game over screen
-// DONE Game over screen
-// DONE Variable board size
-// Start screen w/ choice of board sizes

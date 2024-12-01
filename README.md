@@ -16,7 +16,8 @@ We plan to add:
 
 - Variable difficulty (multiple tornadoes, faster tornadoes)
 - User selection of grid size
-- Scoring (getting close to the tornado without dying will give you points)
+- Scoring (getting close to the tornado without dying will give you points, as will staying alive longer)
+- Sound effects
 
 ## Version
 
