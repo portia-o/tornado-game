@@ -1,0 +1,7 @@
+.cell {
+  border: 1px solid rgb(210, 210, 210);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3em;
+}
