@@ -1,6 +1,6 @@
 ## Tornado Game
 
-This is a simple game I made for my seven-year-old kid.
+This is a simple game I made with Next.js for my seven-year-old kid.
 
 ### Objective
 
